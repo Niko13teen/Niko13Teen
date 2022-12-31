@@ -8,4 +8,4 @@
   <img src="https://komarev.com/ghpvc/?username=niko13teen&style=flat-square&color=red">
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niko13teen)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niko13teen)](https://git.io/streak-stats)
