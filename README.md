@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=niko13teen&style=flat-square&color=red">
   <div>
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=niko13teen&theme=github-dark&hide_border=true&locale=ru&date_format=%5BY.%5Dn.j"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niko13teen&layout=compact&theme=vision-friendly-dark">
   </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niko13teen&layout=compact&theme=github-dark">
+    </div>
 </div>
