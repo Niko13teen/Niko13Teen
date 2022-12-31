@@ -7,7 +7,6 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=niko13teen&style=flat-square&color=red">
   <div>
-    ### :fire: My Stats :
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=niko13teen&theme=github-dark&hide_border=true&locale=ru&date_format=%5BY.%5Dn.j"/></a>
   </div>
   <div>
