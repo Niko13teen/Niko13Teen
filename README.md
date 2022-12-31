@@ -4,6 +4,6 @@
   <a href="https://t.me/niko13teen">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=niko13teen&style=flat-square&color=red">
 </div>
+  <img src="https://komarev.com/ghpvc/?username=niko13teen&style=flat-square&color=red">
 </div>
