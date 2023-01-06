@@ -9,7 +9,7 @@
   <div>
     <div align="left">
       <h3> Hello everyone, I'm Sergey. </h3>
-      <h3> My skills: </h3>
+      <h3> 🛠 My skills: </h3>
       <p> - Python Programming </p>
       <P> - Development of OSINT tools </P>
       <p> - Penetration Testing </p>
