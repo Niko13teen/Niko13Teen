@@ -11,6 +11,9 @@
       <h3> Hello everyone, I'm Sergey. </h3>
       <h3> My skills: </h3>
       <p> - Python Programming </p>
+      <P> - Development of OSINT tools </P>
+      <p> - Penetration Testing </p>
+      <p> - QA Testing </p>
     </div>
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=niko13teen&theme=github-dark&hide_border=true&locale=ru&date_format=%5BY.%5Dn.j"/></a>
   </div>
