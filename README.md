@@ -25,9 +25,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
         <img src="https://cdn-icons-png.flaticon.com/512/1313/1313837.png" title="PT" **alt="PT" width="40" height="40"/>
         <img src="https://www.codewars.com/users/Niko13teen/badges/large" align="left">
-        <img src='https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%2Frating&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fniko13teen&logo=leetcode&logoColor=yellow' title='leetcode' align='left'>
+        <br>
+        <img src='https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%2Frating&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fniko13teen&logo=leetcode&logoColor=yellow' title='leetcode' align='center'>
     </div>
-    <br>
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=niko13teen&theme=github-dark&hide_border=true&locale=ru&date_format=%5BY.%5Dn.j"/></a>
   </div>
   <div>
