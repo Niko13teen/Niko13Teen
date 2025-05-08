@@ -4,7 +4,7 @@
   <a href="https://t.me/niko13teen">
     <img src="https://img.shields.io/badge/Telegram_Author-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/niko13teen_channel">
+  <a href="https://t.me/dem0niS0ul">
     <img src="https://img.shields.io/badge/Telegram_Channel-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
